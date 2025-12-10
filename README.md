@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi there
 
-<!--
-**kristie1-nguyen/kristie1-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Accounting, Business Administration, and Economics student at SJCC! I'm interested in building a strong foundation in financial analysis, business operations, and organizational management. My goal is to gain hands-on experience through internships and coursework while preparing for a future career in business or accounting.
 
-Here are some ideas to get you started:
+`📘 Current Coursework & Projects`
+- Financial Accounting
+- Managerial Accounting
+- Micro & Macroeconomics
+- Business Communications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`🌱 Currently Learning`
+- Financial statement analysis
+- Excel for business and accounting
+- Business law fundamentals
+- Professional communication
+
+`💼 Skills`
+- Microsoft Excel
+- Financial Reporting
+- Budgeting
+- Data Entry & Organization
+- Business Communication
+- Time Management & Teamwork
+
+`📫 How to Reach Me`
+- LinkedIn: https://www.linkedin.com/in/kristie-nguyen-181b62338/
+
+`📊 Academic Progress`
+- Expected Transfer Year: 2027
